@@ -1,0 +1,9 @@
+POST http://localhost:3000/api/v1/auth/register HTTP/1.1
+content-type: application/json
+
+{
+    "first_name": "Jose",
+    "last_name": "Campos",
+    "email": "j.campos@ufrontera.cl",
+    "password": "123123"
+}

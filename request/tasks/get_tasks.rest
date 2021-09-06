@@ -1,0 +1,3 @@
+GET http://localhost:3000/api/v1/tasks/auth-user HTTP/1.1
+content-type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiZW1haWwiOiJqLmNhbXBvc0B1ZnJvbnRlcmEuY2wiLCJpYXQiOjE2MzA4ODc3ODIsImV4cCI6MTYzMzQ3OTc4Mn0.V47xEZoxa3caqnw5KM3s4LX6EHavKZ4J4xRP8_HiPSQ
